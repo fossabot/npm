@@ -2,6 +2,7 @@ npm(1) -- a JavaScript package manager
 ==============================
 
 [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg)](https://travis-ci.org/npm/npm)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fjr00814263%2Fnpm.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fjr00814263%2Fnpm?ref=badge_shield)
 
 ## SYNOPSIS
 
@@ -166,3 +167,7 @@ will no doubt tell you to put the output in a gist or email.
 * npm(1)
 * npm-help(1)
 * npm-index(7)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fjr00814263%2Fnpm.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fjr00814263%2Fnpm?ref=badge_large)
